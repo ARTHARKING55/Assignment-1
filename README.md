@@ -3,10 +3,10 @@
 Created for **IE410**
 
 **Created By:**  
-Arth Shah (202101154)  
-Vraj Thakkar (202101090)  
-Samarth Langalia (202101021)  
-Tirth Patel (202101008)  
+[Arth Shah](linkedin.com/in/arth-shah-18b4a0245/) (202101154)  
+[Vraj Thakkar](https://www.linkedin.com/in/vraj-thakkar-202101090/) (202101090)  
+[Samarth Langalia](https://www.linkedin.com/in/samarth-langalia-202101021/) (202101021)  
+[Tirth Patel](https://www.linkedin.com/in/tirth-patel-202101008/) (202101008)  
 
 ## Aim: 
 Inverse Kinematics using Arduino
