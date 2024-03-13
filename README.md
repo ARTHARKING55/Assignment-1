@@ -1,6 +1,6 @@
 # Assignment-1
 
-Created for **IE410**
+## Created for **IE410** *Introduction To Robotics*
 
 **Created By:**  
 [Arth Shah](https://www.linkedin.com/in/arth-shah-18b4a0245/) (202101154)  
