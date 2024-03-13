@@ -1,0 +1,5 @@
+Arduino UNO
+Arduino cable
++12 V adaptor
+Braccio Board
+Wires
