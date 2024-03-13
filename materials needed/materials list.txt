@@ -1,5 +1,6 @@
 Arduino UNO
 Arduino cable
 +12 V adaptor
-Braccio Board
+Braccio sheild Board
+Braccio robot
 Wires
